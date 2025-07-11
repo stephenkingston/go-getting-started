@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"go-getting-started/anotherlib"
-	"go-getting-started/anotherlib/blip"
-	"go-getting-started/mylib"
-	"go-getting-started/mylib/advanced"
+
+	"github.com/stephenkingston/go-getting-started/anotherlib"
+	"github.com/stephenkingston/go-getting-started/anotherlib/blip"
+	"github.com/stephenkingston/go-getting-started/mylib"
+	"github.com/stephenkingston/go-getting-started/mylib/advanced"
 )
 
 func getRandom() int {
